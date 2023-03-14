@@ -1,2 +1,2 @@
-# optimize_db
-db optimization
+## optimize_db  
+Script for syslog DB optimization (MySQL).
